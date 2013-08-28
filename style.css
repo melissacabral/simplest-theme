@@ -1,15 +1,13 @@
 /*
 Theme Name: Simplest Theme Ever
-Description: A bare bones theme for learning!
-Author: melissacabral
+Description: A bare bones theme for learning WP Theming
+Author: Melissa Cabral
 Author URI: http://wordpress.melissacabral.com
 Version: 0.1
 License: GPLv3 or higher
 
-
-any other comments can go here
+Any other comments can go here
 */
 body{
-	background-color:#eee;
-	font-family: Cambria, Georgia, serif; 
+	background-color: #EA53CC
 }
